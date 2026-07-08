@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Manager",
+  "description": "A professional dual-pane file manager, APK utility, hex/text editor, SQLite browser, and terminal tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
