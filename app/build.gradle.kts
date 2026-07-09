@@ -11,12 +11,13 @@ plugins {
 
 android {
   namespace = "com.example"
-  compileSdk { version = release(36) { minorApiLevel = 1 } }
+  compileSdk = 35
+
 
   defaultConfig {
     applicationId = "com.aistudio.nexusmanager.vqyzn"
     minSdk = 26
-    targetSdk = 36
+    targetSdk = 35
     versionCode = 1
     versionName = "1.0"
 
